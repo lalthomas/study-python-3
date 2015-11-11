@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43193b8-e768-4cdb-a625-a839516fb47f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-months.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/20151012-python crash course.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="20151012-python crash course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -257,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="-1" width="1600" height="870" extended-state="0" />
+    <frame x="10" y="-1" width="1600" height="870" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19409548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
