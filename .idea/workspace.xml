@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43193b8-e768-4cdb-a625-a839516fb47f" name="Default" comment="program to print odd numbers upto 1000">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-todo list.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-check whether array contains even number.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -384,7 +383,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447241417981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add todo list program">
+      <created>1447245530211</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1447245530211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -418,7 +423,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add month count to display" />
     <MESSAGE value="program to print odd numbers upto 1000" />
-    <option name="LAST_COMMIT_MESSAGE" value="program to print odd numbers upto 1000" />
+    <MESSAGE value="add todo list program" />
+    <option name="LAST_COMMIT_MESSAGE" value="add todo list program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
