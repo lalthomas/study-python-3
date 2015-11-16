@@ -8,7 +8,8 @@ list=[1,23,34,23,341,23,34,213,213]
 
 for i in range(len(list)):
     if(list[i]%2 ==0 ):
-        print "list contains even number"
+        print ("list contains even number")
         break
 else:
-    print "list doesnt contains even number "
+    print ("list doesnt contains even number ")
+
