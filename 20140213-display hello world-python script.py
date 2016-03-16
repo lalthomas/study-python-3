@@ -1,3 +1,8 @@
+'''
+program to display hello world
+'''
+__author__='Lal Thomas'
+
 def main():
 	print 'Hello, World'
 	
