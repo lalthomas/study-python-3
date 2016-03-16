@@ -1,2 +1,0 @@
-Implementing Classes and Objects
-=====================================
