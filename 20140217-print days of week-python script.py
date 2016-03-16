@@ -5,7 +5,7 @@ def print_days_of_week():
 
 	for day in days_of_week:
 
-		print day
+		print(day)
 
 def main():
 
