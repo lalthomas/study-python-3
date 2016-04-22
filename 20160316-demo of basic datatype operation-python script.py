@@ -23,7 +23,7 @@ print('good'+'boy')
 print('good''bye')
 name="Indian Union"
 print(name[0])
-print(name[-5]) # count from right, here indcies start from -1
+print(name[-5]) # count from right, here indices start from -1
 print(name[:7]) # characters from beginning to 7 th position
 print(name[5:]) # characters from end to 5 position
 
