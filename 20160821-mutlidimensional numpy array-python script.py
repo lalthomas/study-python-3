@@ -4,7 +4,7 @@ print("ones")
 print(ones)
 second=ones.copy()
 second[0,0]=9
-print("ones")
+print("ones modified")
 print(ones)
 print("seconds")
 print(second)
