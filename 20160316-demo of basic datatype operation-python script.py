@@ -61,25 +61,28 @@ print('good'+'boy')
 print('good''bye')
 name="Indian Union"
 print(name[0])
-print(name[-5]) # count from right, here inices start from -1
-print(name[:7]) # characters from beginning to 7 th position
+print(name[-5]) # count from right, here indices start from -1
+#slicing
+print(name[:7]) # characters from beginning to 7th position
 print(name[5:]) # characters from end to 5 position
 
 '''
 Lists
 '''
 squares = [1,2,4,9,16]
-print(squares)
-print(squares[0])
-print(squares[-1])
-print(squares[-3:])
-print(squares + [36,49,64,81,100])
+print("squares : ",squares)
+print("squares[0] : ",squares[0])
+print("squares[-1] :",squares[-1])
+print("squares[1:] :",squares[1:])
+print("squares[-3:] :",squares[-3:])
+print("squares + [36,49,64,81,100] :",squares + [36,49,64,81,100])
 squares[2]=121
-print(squares)
+print("after squares[2]=121, squares : ",squares )
 squares.append(36)
-print(squares)
+print("after squares.append(36), squares : ",squares)
 squares.append(7*7)
-print(squares)
+print("after squares.append(7*7), squares : ",squares)
 squares[1:3]=[12,144,135]
-print(squares)
+print("after squares[1:3]=[12,144,135] , squares : ",squares)
+print("type(squares) : ", type(squares))
 
